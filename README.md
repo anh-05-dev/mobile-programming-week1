@@ -14,3 +14,22 @@ Bài tập tuần 1 - Môn Lập trình Di động
 4. **Upload lên GitHub** - Đã hoàn thành
 
 ## Cấu trúc repository
+## Hướng dẫn chạy ứng dụng      
+### Yêu cầu hệ thống:
+- Flutter SDK 3.0+
+- Dart 2.19+
+- IDE: VS Code hoặc Android Studio
+
+### Các bước chạy:
+```bash
+# 1. Clone repository
+git clone https://github.com/anh-05-dev/mobile-programming-week1.git
+
+# 2. Vào thư mục ứng dụng
+cd mobile-programming-week1/flutter_app
+
+# 3. Cài đặt dependencies
+flutter pub get
+
+# 4. Chạy ứng dụng
+flutter run

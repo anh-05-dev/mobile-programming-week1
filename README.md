@@ -10,8 +10,7 @@ Bài tập tuần 1 - Môn Lập trình Di động
 ## Nội dung bài tập
 1. **Câu hỏi lý thuyết** - [Xem chi tiết](ANSWERS.md)
 2. **Ứng dụng Flutter** - [Xem code](flutter_app/)
-3. **Ảnh chụp màn hình** - [Xem ảnh](screenshots/app_screenshot.png)
-4. **Upload lên GitHub** - Đã hoàn thành
+3. **Upload lên GitHub** - Đã hoàn thành
 
 ## Cấu trúc repository
 ## Hướng dẫn chạy ứng dụng      
